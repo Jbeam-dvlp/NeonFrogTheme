@@ -1,6 +1,5 @@
 //META{"name":"RetroFrog","description":"An amazing RGB theme with full customization included, made by Jbeam. Thank's to Gibbu#1211 for the horizontal server list.","author":"jbeam#7671","version":"1.2", "website":"https://github.com/GoldenLys/"}*//{}
-@import url('https://goldenlys.github.io/BetterDiscord-Elysia/base.css');
-@import url("https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css");
+@import url('https://raw.githubusercontent.com/Jbeam-dvlp/NeonFrogTheme/master/base.css');
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 :root {
     --img: url(https://1.bp.blogspot.com/-JNKVWGLFxog/XT5FDTovZeI/AAAAAAAATZo/2L5n_bC2ttYEjwVlxFPhZRpXwsOgIRf2ACLcBGAs/s2560/neon_wave_architecture_4k-2560x1440.jpg);
