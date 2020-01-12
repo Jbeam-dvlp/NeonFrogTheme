@@ -522,8 +522,8 @@ polyline {
 }
 
 .headerSpotify-zpWxgT, .topSectionSpotify-1lI0-P {
-    background: -webkit-linear-gradient(180deg, var(--Spotify) 0%, var(--darkgrey) 50%)!important;
-    background: linear-gradient(180deg, var(--Spotify) 0%, var(--darkgrey) 50%)!important;
+    background: -webkit-linear-gradient(180deg, var(--Spotify) 57%, var(--darkgrey) 100%)!important;
+    background: linear-gradient(180deg, var(--Spotify) 57%, var(--darkgrey) 100%)!important;
 }
 
 .headerStreaming-2FjmGz {
